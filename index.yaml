@@ -2,8 +2,8 @@
 repositories:
   src/vehicle_platform/vesc:
     type: git
-    url: https://github.com/pokusew/vesc.git
-    version: ros2-pokusew
+    url: https://github.com/CTU-F1T/vesc.git
+    version: ros2
   # TODO: enable once needed
   # src/perception/sensors/ros2_razor_imu:
   #   type: git
