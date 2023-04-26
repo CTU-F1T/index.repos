@@ -13,3 +13,7 @@ repositories:
     type: git
     url: https://github.com/CTU-F1T/teensy_drive.git
     version: master
+  src/messages:
+    type: git
+    url: https://github.com/CTU-F1T/messages.git
+    version: master
