@@ -17,3 +17,7 @@ repositories:
     type: git
     url: https://github.com/CTU-F1T/messages.git
     version: master
+  src/auxiliary/autopsy:
+    type: git
+    url: https://github.com/jara001/autopsy.git
+    version: master
