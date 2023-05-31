@@ -25,3 +25,7 @@ repositories:
     type: git
     url: https://github.com/CTU-F1T/ng_trajectory_ros.git
     version: master
+  src/perception/recognition/particle_filter:
+    type: git
+    url: https://github.com/CTU-F1T/particle_filter.git
+    version: master
