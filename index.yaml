@@ -29,3 +29,7 @@ repositories:
     type: git
     url: https://github.com/CTU-F1T/particle_filter.git
     version: master
+  src/auxiliary/rviz_tools2:
+    type: git
+    url: https://github.com/CTU-F1T/rviz_tools2.git
+    version: master
