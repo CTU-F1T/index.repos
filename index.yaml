@@ -33,3 +33,7 @@ repositories:
     type: git
     url: https://github.com/CTU-F1T/rviz_tools2.git
     version: master
+  src/perception/recognition/obstacle_server_cpp:
+    type: git
+    url: https://github.com/CTU-F1T/obstacle_server_cpp.git
+    version: master
